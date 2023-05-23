@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwdanneker
-- 👀 I’m interested in ...
+- 👀 I’m interested in music
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me ...
 
 <!---
